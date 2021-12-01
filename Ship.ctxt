@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Ship
-comment1.params=Set_tile\ orientation\ board\ verbose
-comment1.target=boolean\ placeShip(Tile,\ Orientation,\ Board,\ boolean)
-comment1.text=\r\n\ \ \ \ public\ int\ getShip_size()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ return\ Ship_size;\r\n\ \ \ \ }\ \r\n
-numComments=2
