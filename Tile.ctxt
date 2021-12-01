@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tile
+comment1.params=x\ y\ type
+comment1.target=Tile(int,\ int,\ Type)
+comment2.params=
+comment2.target=Tile()
+comment3.params=hidden
+comment3.target=java.lang.String\ draw(boolean)
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=Type\ getType()
+comment7.params=x
+comment7.target=void\ setX(int)
+comment8.params=y
+comment8.target=void\ setY(int)
+comment9.params=type
+comment9.target=void\ setType(Type)
+numComments=10
