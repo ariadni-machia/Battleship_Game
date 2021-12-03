@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: Battleship Game
+PURPOSE OF PROJECT: Making the classic game "battleship" (User vs the computer). More details are in the report (.pdf).
+DATE: June of 2018
+AUTHORS: Ariadni Machia, Athina Fouseki, Katerina Dervou
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
